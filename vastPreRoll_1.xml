@@ -1,0 +1,11 @@
+<script type="text/javascript">
+    var exoOpts = {
+        // postroll: {},
+        // pause: { padding: 1 },
+        // offsetY: +40,
+        idzone_300x250 : 3604767,
+        preroll: {},
+        show_thumb: 1
+    };
+</script>
+<script type="text/javascript" src="https://a.exdynsrv.com/invideo.js"></script>
